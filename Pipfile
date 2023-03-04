@@ -11,6 +11,9 @@ unidecode = "*"
 numpy = "*"
 tensorflow-addons = "*"
 spacy = "*"
+nltk = "*"
+transformers = "*"
+scikit-learn = "*"
 
 [dev-packages]
 ipykernel = "*"
